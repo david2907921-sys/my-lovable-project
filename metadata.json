@@ -1,0 +1,7 @@
+{
+  "name": "Beste Version der Gästemappe bisher",
+  "description": "A premium digital guestbook for luxury properties in Šibenik, featuring local guides, house manuals, and real-time weather.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
